@@ -1,0 +1,29 @@
+@import '../abstracts/variables.css';
+
+body {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: 400;
+}
+
+.body-primary-style {
+	font-size: var(--primary-font-size);
+	line-height: 1.7;
+}
+
+.body-secondary-style {
+	font-size: var(--secondary-font-size);
+	line-height: 1.625;
+}
+
+.primary-heading {
+	font-weight: 700;
+	font-size: 8.8rem;
+	line-height: 1;
+	letter-spacing: -1px;
+}
+
+.scondary-heading {
+	font-weight: 700;
+	font-size: 4rem;
+	line-height: 1.3;
+}

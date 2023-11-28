@@ -1,0 +1,12 @@
+:root {
+	/* COLORS */
+	--color-cyan: #66e2dc;
+	--color-coral: #fa7453;
+	--color-light-orange: #ffb964;
+	--color-light: #fcfaf9;
+	--color-dark: #191826;
+
+	/* FONT SIZE */
+	--primary-font-size: 2rem;
+	--secondary-font-size: 1.6rem;
+}
