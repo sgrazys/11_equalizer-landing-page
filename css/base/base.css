@@ -10,3 +10,9 @@ body *::before {
 	margin: 0;
 	box-sizing: border-box;
 }
+
+body {
+	background-image: url(/starter-code/assets/bg-main-mobile.png);
+	background-position: top -25rem left 2.5rem;
+	background-repeat: no-repeat;
+}

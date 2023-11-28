@@ -1,0 +1,26 @@
+/* HEADER */
+
+.header > .header-content > .primary-heading {
+	font-size: 4rem;
+	letter-spacing: -0.45px;
+	margin-bottom: 2rem;
+}
+
+.header > .logo {
+	margin-bottom: 6.4rem;
+}
+
+.body-secondary-style {
+	margin-bottom: 6.4rem;
+}
+
+.phone-img-container {
+	height: 430px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.phone-img {
+	height: 100%;
+}

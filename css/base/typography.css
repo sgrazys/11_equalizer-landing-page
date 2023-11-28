@@ -19,10 +19,8 @@ body {
 	font-weight: 700;
 	font-size: 8.8rem;
 	line-height: 1;
-	letter-spacing: -1px;
 }
-
-.scondary-heading {
+.secondary-heading {
 	font-weight: 700;
 	font-size: 4rem;
 	line-height: 1.3;

@@ -1,0 +1,32 @@
+@import '../abstracts/variables.css';
+
+.btn {
+	border: none;
+	border-radius: 12px;
+	font-weight: 700;
+	font-size: 1.8rem;
+	letter-spacing: -0.18px;
+	line-height: 1.777;
+	text-align: center;
+	transition: all 0.3s;
+}
+
+.btn-ios {
+	color: var(--color-light);
+	background-color: var(--color-dark);
+
+	padding: 0.3em 4em;
+}
+.btn-ios:hover {
+	background-color: var(--color-cyan);
+}
+
+.btn-android {
+	color: var(--color-dark);
+	background-color: var(--color-light);
+
+	padding: 0.3em 4em;
+}
+.btn-android:hover {
+	background-color: var(--color-light-orange);
+}
