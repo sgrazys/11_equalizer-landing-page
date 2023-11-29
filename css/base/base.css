@@ -27,3 +27,11 @@ a:link,
 a:visited {
 	text-decoration: none;
 }
+
+@media (min-width: 48em) {
+	body {
+		background-image: url(/starter-code/assets/bg-main-tablet.png);
+		background-position: top -30rem right -11rem;
+		height: 808px;
+	}
+}

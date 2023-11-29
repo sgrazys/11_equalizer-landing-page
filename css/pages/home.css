@@ -145,4 +145,10 @@
 		letter-spacing: -0.73px;
 		margin-bottom: 2.8rem;
 	}
+
+	.body-secondary-style {
+		font-size: 1.8rem;
+		line-height: 1.55;
+		margin-bottom: 0;
+	}
 }
