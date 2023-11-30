@@ -35,3 +35,9 @@ a:visited {
 		height: 808px;
 	}
 }
+@media (min-width: 90em) {
+	body {
+		background-image: url(/starter-code/assets/bg-main-desktop.png);
+		background-position: top -35rem right -20rem;
+	}
+}
