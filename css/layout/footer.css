@@ -7,3 +7,8 @@
 		padding-left: 3.9rem;
 	}
 }
+@media (min-width: 90em) {
+	.footer {
+		padding: 6.4rem 0 8rem;
+	}
+}

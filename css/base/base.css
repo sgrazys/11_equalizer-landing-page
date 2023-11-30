@@ -28,6 +28,10 @@ a:visited {
 	text-decoration: none;
 }
 
+a[href='mailto:equalizer@example.com'] {
+	color: var(--color-dark);
+}
+
 @media (min-width: 48em) {
 	body {
 		background-image: url(/starter-code/assets/bg-main-tablet.png);
