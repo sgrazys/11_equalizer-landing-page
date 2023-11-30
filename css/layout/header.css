@@ -11,3 +11,8 @@
 		max-width: 67%;
 	}
 }
+@media (min-width: 112em) {
+	.header-content {
+		max-width: 40%;
+	}
+}

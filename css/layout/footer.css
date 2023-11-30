@@ -1,3 +1,9 @@
 .footer {
 	padding: 6.4rem 5rem 8rem 2.4rem;
 }
+
+@media (min-width: 48em) {
+	.footer {
+		padding-left: 3.9rem;
+	}
+}
