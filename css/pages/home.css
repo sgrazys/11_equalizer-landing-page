@@ -193,6 +193,10 @@
 }
 
 @media (min-width: 90em) {
+	.header > .logo {
+		margin-bottom: 12.7rem;
+	}
+
 	.bg-img-pattern-container {
 		background-position: top -4rem right 0;
 		height: 46.8rem;
